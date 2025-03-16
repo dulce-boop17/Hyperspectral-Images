@@ -8,12 +8,12 @@ Repository for hyperspectral image analysis, focused on the classification of pu
 4. Run the code: Run the script to perform the classification and display the results.
 
 ## Project Features:
-• Hyperspectral image reading and processing: Use of HDR and RAW files to load and process hyperspectral images using the spectral library.
-• Extraction of spectra: Selection of specific pixels corresponding to seeds and pulp to extract their characteristic spectra with respect to wavelength.
-• Calculation of Statistical Moments: Calculation of the mean, standard deviation, skewness and kurtosis of the spectra to use them as features in classification.
-• Support Vector Machine (SVM) Classification: Implementation of an SVM classifier to differentiate between seed and pulp pixels based on statistical moments.
-• K-Nearest Neighbors (KNN) classification: Implementation of a KNN classifier to differentiate between seed and pulp pixels based on statistical moments.
-• Decision Boundary Visualization: Plots showing how the KNN classifier separates data based on different pairs of statistical features.
+• Hyperspectral image reading and processing: Use of HDR and RAW files to load and process hyperspectral images using the spectral library.  
+• Extraction of spectra: Selection of specific pixels corresponding to seeds and pulp to extract their characteristic spectra with respect to wavelength.  
+• Calculation of Statistical Moments: Calculation of the mean, standard deviation, skewness and kurtosis of the spectra to use them as features in classification.  
+• Support Vector Machine (SVM) Classification: Implementation of an SVM classifier to differentiate between seed and pulp pixels based on statistical moments.  
+• K-Nearest Neighbors (KNN) classification: Implementation of a KNN classifier to differentiate between seed and pulp pixels based on statistical moments.  
+• Decision Boundary Visualization: Plots showing how the KNN classifier separates data based on different pairs of statistical features.  
 
 ### Requirements
 - Python 3.x
