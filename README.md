@@ -16,6 +16,5 @@ Repository for hyperspectral image analysis, focused on the classification of pu
 • Decision Boundary Visualization: Plots showing how the KNN classifier separates data based on different pairs of statistical features.
 
 ### Requirements
-
-Python 3.x
-Libraries: spectral, numpy, matplotlib, scipy, sklearn
+- Python 3.x
+- Libraries: spectral, numpy, matplotlib, scipy, sklearn
