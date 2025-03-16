@@ -3,9 +3,10 @@ Repository for hyperspectral image analysis, focused on the classification of pu
 
 ## How to use:
 1. Download the Giessen dataset: https://zenodo.org/records/1186372#.XOoch8hKjIU
-2. Install dependencies: Make sure all necessary libraries are installed.
-3. Configure directories and files: Set the paths to the HDR and RAW files in the code according to your directory structure.
-4. Run the code: Run the script to perform the classification and display the results.
+2. Install the dependencies: Make sure that all necessary libraries are installed.
+3. Set up directories and files: Set up the HDR and RAW file paths in the code according to your directory structure.
+4. Pixels: Make sure to choose the pixel coordinates according to the corresponding fruit or vegetable.
+5. Run the code: Run the script to perform the sorting and display the results.
 
 ## Project Features:
 • **Hyperspectral image reading and processing:** Use of HDR and RAW files to load and process hyperspectral images using the spectral library.  
@@ -18,3 +19,4 @@ Repository for hyperspectral image analysis, focused on the classification of pu
 ### Requirements
 - Python 3.x
 - Libraries: spectral, numpy, matplotlib, scipy, sklearn
+- Previously downloaded dataset
