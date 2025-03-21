@@ -1,5 +1,5 @@
-# Hyperspectral-Images
-Repository for hyperspectral image analysis, focused on the classification of pulp-seed in fruits and crown-stem in vegetables, using image processing and machine learning with Giessen data. The objective is to develop a classification model based on hyperspectral images to accurately differentiate regions of interest in fruits and vegetables, such as pulp-seed and crown-stem, using image processing and machine learning techniques.
+# Hyperspectral Image Processing using Machine Learning Algorithms
+Repository for hyperspectral image analysis, the objective is to develop a classification model based on hyperspectral images to accurately differentiate regions of interest in fruits and vegetables, such as pulp-seed and crown-stem, using image processing and machine learning techniques with Giessen data
 
 ## How to use:
 1. Download the Giessen dataset: https://zenodo.org/records/1186372#.XOoch8hKjIU
